@@ -1,0 +1,4 @@
+- source: Olumide-Oyalola-Resume.Rmd
+  quarto-pub:
+    - id: fd97a246-4d4f-4177-916f-425951dd2539
+      url: 'https://quartopub.com/sites/iamolumide/olumide-oyalolas-resume'

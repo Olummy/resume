@@ -33,11 +33,15 @@ Skills {#skills}
 - Highly experienced in
 
   - R,  ODK,  SQL, LaTEX, Excel
+
+- Others
+
+  - Python, Julia
   
   
 - Tools
 
-  - RStudio,  Jupyter
+  - RStudio,  Jupyter, Pluto, VS Code
   
  
 - Databases 
@@ -64,31 +68,141 @@ Olumide Oyalola {#title}
 
 ### Personal Profile
 
-A result-driven data practitioner with an excellent understanding of all aspects of data analytics and statistics. Olumide is experienced in deriving actionable insights from data for supporting business decisions and encouraging factual decision making for the decision-makers. He has since had engagements in various sectors spanning power, manufacturing, banking, and health interventions. Olumide has great communication and people management skills.
+A result-driven data practitioner with an excellent understanding of all aspects of data analytics and statistics. Olumide is experienced in deriving actionable insights from data for supporting business decisions and encouraging factual decision making for the decision-makers. He has since had engagements in various sectors spanning IT services, Information services, and health interventions. Olumide has great communication and people management skills.
 
 
-Education {data-icon=graduation-cap data-concise=true}
+Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### University of Ibadan
+### Data Scientist
 
-M.S. in Statistics
+Dangote Industries Limited
 
-Oyo State, Nigeria
+Lagos State, Nigeria
 
-2015
-
-
-
-### Federal University of Technology, Akure
-
-B.Tech. in Industrial Mathematics
-
-Ondo State, Nigeria
-
-2010
+2022 - Till Date
 
 
+### Head, Business Transformation & Operational Excellence
+
+Longbridge Technologies Limited
+
+Lagos State, Nigeria
+
+2019 - 2021
+
+
+
+- Work in a cross-functional environment with various business groups, and end-users to identify, document, and communicate business processes.
+- Create a system to evaluate the success of any adjustments made within the organization and present findings.
+- Communicate strategies and objectives with relevant departments and colleagues.
+
+
+
+### Data Scientist
+
+eHealth Systems Africa
+
+Kano State, Nigeria
+
+2017 - 2018
+
+
+
+- Developed models to discover the patterns and information in vast amounts of spatial and non-spatial data across several programs at eHA to support better programmatic decisions, intervention planning and improved information products.
+- Applied data mining techniques, performed statistical analysis, and build high quality prediction models that formed core of eHA's information products on disease surveillance in particular.
+
+
+
+
+### Data Scientist
+
+Venture Garden Group
+
+Lagos State, Nigeria
+
+2016 - 2017
+
+
+
+- Lead discovery processes with Institute stakeholders to identify the business requirements and the expected outcome.
+- Conducted advanced data analysis and complex designs algorithm.
+- Applied advanced statistical and predictive modeling techniques to build, maintain, and improve on multiple real-time decision systems.
+- Validated analysis using scenario modeling.
+
+
+
+
+### Quality Assurance Analyst
+
+Computer Warehouse Group, Plc
+
+Lagos State, Nigeria
+
+2013 - 2016
+
+
+
+- Encouraged factual approach to decision making by providing the management an accurate analysis of people and processes.
+- Achieved success in providing standard value-added metrics for business model.
+- Conducted quality spot checks of project implementations & Services (Software, Hardware, Communication).
+- Provided both administrative and analytic support to departments in order to manage critical and people sensitive projects.
+- Collaborated with the VP of Sales in the development of sales forecasts and projections.
+- Summarized and report performance against sales quotas to all sales personnel in a timely manner.
+- Proactively prepare and deliver ad hoc customer analysis to sales team members and senior management.
+
+
+
+### Data Analyst
+
+Practical Sampling International
+
+Lagos State, Nigeria
+
+2012 - 2013
+
+- Supervised the data collection process of many high profile projects.
+- Processed and analyzed raw data collected from field work.
+- Improved the statistical procedure usage and reporting method.
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Data Analytics Mentor.
+
+[Analytics Mentor at Codementor.io](https://www.codementor.io/@olumidemichaeloyalola)
+
+[![Contact me on Codementor](https://www.codementor.io/m-badges/olumidemichaeloyalola/find-me-on-cm-g.svg)](https://www.codementor.io/@olumidemichaeloyalola?refer=badge)
+
+2018 - Till Date
+
+
+### Data Analytics Using R.
+
+Data Analytics facilitator at BNet Learning
+
+Lagos State, Nigeria
+
+2018 - Till Date
+
+
+### Guest Faculty Business Analytics.
+
+Business Analytics facilitator at EduPristine
+
+Lagos State, Nigeria
+
+2015 - 2016
+
+
+### Guest Faculty IBM SPSS.
+
+Instructor of IBM SPSS and Data Analysis Training Courses at AfriHUB Nigeria Limited Inc.
+
+Abia State, Nigeria
+
+2011 - 2012
 
 
 Recent Projects {data-icon=laptop}
@@ -98,7 +212,7 @@ Recent Projects {data-icon=laptop}
 
 eHealth Systems Africa
 
-Kano, Nigeria
+Kano State, Nigeria
 
 2017 - 2018
 
@@ -126,124 +240,72 @@ FMoH Dashboard
 - Created visualizations using kibana based on the agreed metrics/indicators.
 
 
-
-Professional Experience {data-icon=suitcase}
+Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Business Transformation Manager
+<!-- ### University of East London -->
 
-Longbridge Technologies Limited
+<!-- M.Sc in Data Science (In-view) -->
 
-Lagos, Nigeria
+<!-- London, England -->
 
-2019
-
-
-
-- Work in a cross-functional environment with various business groups, and end-users to identify, document, and communicate business processes.
-- Create a system to evaluate the success of any adjustments made within the organization and present findings.
-- Communicate strategies and objectives with relevant departments and colleagues.
+<!-- 2023 -->
 
 
+### University of Ibadan
 
-### Data Scientist
+M.Sc. in Statistics
 
-eHealth Systems Africa
+Oyo State, Nigeria
 
-Kano, Nigeria
-
-2017 - 2018
+2015
 
 
 
-- Developed models to discover the patterns and information in vast amounts of spatial and non-spatial data across several programs at eHA to support better programmatic decisions, intervention planning and improved information products.
-- Applied data mining techniques, performed statistical analysis, and build high quality prediction models that formed core of eHA's information products on disease surveillance in particular.
+### Federal University of Technology, Akure
+
+B.Tech. in Industrial Mathematics
+
+Ondo State, Nigeria
+
+2010
 
 
+---
+
+Award {data-icon=graduation-cap data-concise=true}
+----------------------------------------------------------------------------
+
+### Award of excellence
+
+Award of excellence for branding the Federal University of Technology, Akure, Ondo State, Nigeria. Award presentation by the Vice-Chancellor of the University.
+
+Ondo State, Nigeria
+
+2010
 
 
-### Data Scientist
+---
 
-Venture Garden Group
+Referees {#contact}
+----------------------------------------------------------------------------
 
-Lagos, Nigeria
+### Rasheed Salawu
 
-2016 - 2017
+Chief Operating Officer, Longbridge Technologies Limited
 
+<i class="fa fa-envelope"></i> rasheed.salawu@longbridgetech.org
 
+<i class="fa fa-phone"></i> +234-805-700-2023
 
-- Lead discovery processes with Institute stakeholders to identify the business requirements and the expected outcome.
-- Conducted advanced data analysis and complex designs algorithm.
-- Applied advanced statistical and predictive modeling techniques to build, maintain, and improve on multiple real-time decision systems.
-- Validates analysis using scenario modeling.
+1.
 
+### David Ogunmuyiwa
 
+Senior Business Analyst, eHealth Systems Africa
 
+<i class="fa fa-envelope"></i> daeogunmuyiwa@gmail.com
 
-### Quality Assurance Analyst
+<i class="fa fa-phone"></i> +234-908-733-5675
 
-Computer Warehouse Group, Plc
-
-Lagos, Nigeria
-
-2013 - 2016
-
-
-
-- Encouraged factual approach to decision making by providing the management an accurate analysis of people and processes.
-- Achieved success in providing standard value-added metrics for business model.
-- Continual implementation and auditing of ISO 9001:2008.
-- Quality process analysis to achieving a system thinking organization.
-- Quality spot checks of project implementations & Services (Software, Hardware, Communication).
-- Provided both administrative and analytic support to departments in order to manage critical and people sensitive projects.
-- Collaborated with the VP of Sales in the development of sales forecasts and projections.
-- Summarize and report performance against sales quotas to all sales personnel in a timely manner.
-- Proactively prepare and deliver ad hoc customer analysis to sales team members and senior management.
-
-
-
-### Data Analyst
-
-Practical Sampling International
-
-Lagos, Nigeria
-
-2012 - 2013
-
-- Supervised the data collection process of many high profile projects.
-- Processed and analyzed raw data collected from field work.
-- Improved the statistical procedure usage and reporting method.
-
-
-
-Teaching Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-### Data Analytics Using R.
-
-Data Analytics facilitator at BNet Learning
-
-Lagos, Nigeria
-
-2018
-
-
-### Guest Faculty Business Analytics.
-
-Business Analytics facilitator at EduPristine
-
-Lagos, Nigeria
-
-2015 - 2016
-
-
-### Guest Faculty IBM SPSS.
-
-Instructor of IBM SPSS and Data Analysis Training Courses at AfriHUB Nigeria Limited Inc.
-
-Abia, Nigeria
-
-2011 - 2012
-
-
-
+2. 

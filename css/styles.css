@@ -10,6 +10,10 @@ body {
   
 }
 
+img[src^="../images/"] {
+border: 10px solid black;
+}
+
 /* #main {
   font-style: bold;
   color: blue;
@@ -124,8 +128,9 @@ sup {
   font-style: bold;
 }
 
-[data-id="skills"] {
-  font-style: italic;
+[data-id="skills"]:hover {
+  font-style: normal;
+  color: #08306b;
 }
 
 /* Remove the fake bullets from lists */
