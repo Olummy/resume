@@ -1,0 +1,126 @@
+---
+name: Olumide
+surname: Oyalola
+position: "Data Professional"
+address: ""
+phone: +234-803-569-4053
+profilepic: olumide.jpeg
+www: 
+email: "olumideoyalola@gmail.com"
+twitter: iamolumide
+github: olummy
+linkedin: olumide-michael-oyalola-9a522857
+date: "`r format(Sys.time(), '%B %Y')`"
+aboutme: "Olumide is a data professional with compelling experience in various aspects of analytics."
+output: vitae::twentyseconds
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+library(tibble)
+```
+
+# Some stuff about me
+
+* I'm a result-driven data practitioner with an excellent understanding of all aspects of data analytics and statistics. 
+
+* I'm experienced in deriving actionable insights from data for supporting business decisions and encouraging factual decision making for the decision-makers. 
+
+* I've since had engagements in various sectors spanning IT services, FMCG, Information services, and health interventions. 
+
+* I have a great communication and people management skills.
+
+# SkillSets
+
+```{r}
+
+tribble(
+  ~ What, ~ Rating, ~ Category, ~ empty,
+  "R | Python | Julia | SQL | Excel | ODK", "", "Data Tool Box", "",
+  "Rstudio | Jupyter | VS Code | Pluto", "", "Development Environments","",
+  "PostgreSQL | Elasticsearch", "", "Databases","",
+  "PowerBI | Google Data Studio | Tableau | Kibana", "", "BI Tools","",
+  "Windows | Ubuntu | CentOS", "", "Operating Systems", ""
+) %>% 
+  detailed_entries(What, Rating, Category, empty)
+
+```
+
+
+# Education
+
+```{r}
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "Master of Statistics", "2013-15", "University of Ibadan", "Ibadan, Nigeria",
+  "B.Tech Industrial Mathematics", "2005-2010", "Federal University of Technology, Akure", "Akure, Nigeria"
+) %>% 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+# Professional Experience
+
+```{r}
+tribble(
+  ~ Role, ~ Year, ~ Organization, ~ Location,
+  "Data Scientist", "2022", "Dangote Industries Limited", "Lagos, Nigeria",
+  "Head, Business Transformation & Operational Excellence", "2019-21", "Longbrige Technologies Limited", "Lagos, Nigeria",
+  "Data Scientist", "2017-18", "eHealth Systems Africa", "Kano, Nigeria",
+  "Data Scientist", "2016-17", "Venture Garden Group", "Lagos, Nigeria",
+  "Quality Assurance Analyst", "2013-16", "Computer Warehouse Group, Plc", "Lagos, Nigeria",
+  "Data Analyst", "2012-13", "Practical Sampling International", "Lagos, Nigeria"
+  
+) %>% 
+  detailed_entries(Role, Year, Organization, Location)
+```
+
+
+
+# Teaching Experience
+
+```{r}
+tribble(
+  ~ Role, ~ Year, ~ Organization, ~ Location,
+  "Data Analytics Mentor", "2018-Now", "Codementor.io", "Remote",
+  "Faculty Member Data Analytics", "2018-Now", "BNet Learning", "Remote",
+  "Guest Faculty Business Analytics", "2015-2016", "EduPristine", "Lagos, Nigeria & Beirut, Lebanon",
+  "Guest Faculty IBM SPSS", "2011-2012", "AfriHUB Nigeria Limited", "Umuahia, Nigeria"
+  
+) %>% 
+  detailed_entries(Role, Year, Organization, Location)
+```
+
+
+# Certifications
+
+```{r}
+tribble(
+   ~ Institution, ~ Year, ~ Certification, ~ Where,
+  "Certification in Business Data Analytics", 2022, "IIBA", "Canada"
+) %>% 
+  detailed_entries(
+    Institution, 
+    Year,
+    Certification,
+    Where
+  )
+```
+
+
+
+<!-- # Award -->
+
+<!-- ```{r} -->
+<!-- tribble( -->
+<!--    ~ Institution, ~ Year, ~ Award, ~ Where, -->
+<!--   "Federal University of Technology, Akure", 2010, "Award of excellence for branding the Federal University of Technology, Akure", "Akure, Nigeria" -->
+<!-- ) %>%  -->
+<!--   detailed_entries( -->
+<!--     Institution,  -->
+<!--     Year, -->
+<!--     Award, -->
+<!--     Where -->
+<!--   ) -->
+<!-- ``` -->
+
