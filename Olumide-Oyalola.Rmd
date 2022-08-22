@@ -82,8 +82,8 @@ tribble(
 ```{r}
 tribble(
   ~ Role, ~ Year, ~ Organization, ~ Location,
-  "Data Analytics Mentor", "2018-Till Date", "Codementor.io", "Remote",
-  "Faculty Member Data Analytics", "2018-Till Date", "BNet Learning", "Remote",
+  "Data Analytics Mentor", "2018-present", "Codementor.io", "Remote",
+  "Faculty Member Data Analytics", "2018-present", "BNet Learning", "Remote",
   "Guest Faculty Business Analytics", "2015-2016", "EduPristine", "Lagos, Nigeria & Beirut, Lebanon",
   "Guest Faculty IBM SPSS", "2011-2012", "AfriHUB Nigeria Limited", "Umuahia, Nigeria"
   
