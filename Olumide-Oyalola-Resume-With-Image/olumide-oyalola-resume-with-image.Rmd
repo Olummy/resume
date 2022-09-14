@@ -9,7 +9,7 @@ www:
 email: "olumideoyalola@gmail.com"
 twitter: iamolumide
 github: olummy
-linkedin: olumide-michael-oyalola-9a522857
+linkedin: olumide-oyalola
 date: "`r format(Sys.time(), '%B %Y')`"
 aboutme: "Olumide is a data professional with compelling experience in various aspects of analytics."
 output: vitae::twentyseconds

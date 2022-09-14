@@ -8,7 +8,7 @@ www:
 email: "olumideoyalola@gmail.com"
 twitter: iamolumide
 github: olummy
-linkedin: olumide-michael-oyalola-9a522857
+linkedin: olumide-oyalola
 date: "`r format(Sys.time(), '%B %Y')`"
 output: 
   vitae::awesomecv:
