@@ -3,8 +3,8 @@ name: Olumide
 surname: Oyalola
 position: "Data Professional"
 address: ""
-phone: +234-803-569-4053
 www: 
+phone: +234-803-569-4053
 email: "olumideoyalola@gmail.com"
 twitter: iamolumide
 github: olummy
@@ -40,7 +40,7 @@ tribble(
   "R | Python | Julia | SQL | Excel | ODK", "", "Data Tool Box", "",
   "Rstudio | Jupyter | VS Code | Pluto", "", "Development Environments","",
   "PostgreSQL | Elasticsearch", "", "Databases","",
-  "PowerBI | Google Data Studio | Tableau | Kibana", "", "BI Tools","",
+  "PowerBI | Looker Studio | Tableau | Kibana", "", "BI Tools","",
   "Windows | Ubuntu | CentOS", "", "Operating Systems", ""
 ) %>% 
   detailed_entries(What, Rating, Category, empty)
