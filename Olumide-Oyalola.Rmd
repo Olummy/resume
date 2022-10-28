@@ -3,7 +3,7 @@ name: Olumide
 surname: Oyalola
 position: "Data Professional"
 address: ""
-www: 
+www: "iamolumide.quarto.pub/"
 phone: +234-803-569-4053
 email: "olumideoyalola@gmail.com"
 twitter: iamolumide
@@ -23,13 +23,13 @@ library(tibble)
 
 # Some stuff about me
 
-* I'm a result-driven data practitioner with an excellent understanding of all aspects of data analytics and statistics. 
+-   I'm a result-driven data practitioner with an excellent understanding of all aspects of data analytics and statistics.
 
-* I'm experienced in deriving actionable insights from data for supporting business decisions and encouraging factual decision making for the decision-makers. 
+-   I'm experienced in deriving actionable insights from data for supporting business decisions and encouraging factual decision making for the decision-makers.
 
-* I've since had engagements in various sectors spanning IT services, FMCG, Information services, and health interventions. 
+-   I've since had engagements in various sectors spanning IT services, FMCG, Information services, and health interventions.
 
-* I have a great communication and people management skills.
+-   I have a great communication and people management skills.
 
 # SkillSets
 
@@ -46,7 +46,6 @@ tribble(
   detailed_entries(What, Rating, Category, empty)
 
 ```
-
 
 # Education
 
@@ -74,8 +73,6 @@ tribble(
 ) %>% 
   detailed_entries(Role, Year, Organization, Location)
 ```
-
-
 
 # Teaching Experience
 
@@ -120,4 +117,3 @@ tribble(
     Where
   )
 ```
-
