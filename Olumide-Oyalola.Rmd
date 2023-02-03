@@ -31,21 +31,6 @@ library(tibble)
 
 -   I have a great communication and people management skills.
 
-# SkillSets
-
-```{r}
-
-tribble(
-  ~ What, ~ Rating, ~ Category, ~ empty,
-  "R | Python | Julia | SQL | Excel | ODK", "", "Data Tool Box", "",
-  "Rstudio | Jupyter | VS Code | Pluto", "", "Development Environments","",
-  "PostgreSQL | Elasticsearch", "", "Databases","",
-  "PowerBI | Looker Studio | Tableau | Kibana", "", "BI Tools","",
-  "Windows | Ubuntu | CentOS", "", "Operating Systems", ""
-) %>% 
-  detailed_entries(What, Rating, Category, empty)
-
-```
 
 # Education
 
@@ -62,31 +47,95 @@ tribble(
 
 ```{r}
 tribble(
-  ~ Role, ~ Year, ~ Organization, ~ Location,
-  "Data Scientist", "2022", "Dangote Industries Limited", "Lagos, Nigeria",
-  "Head, Business Transformation & Operational Excellence", "2019-21", "Longbrige Technologies Limited", "Lagos, Nigeria",
-  "Data Scientist", "2017-18", "eHealth Systems Africa", "Kano, Nigeria",
-  "Data Scientist", "2016-17", "Venture Garden Group", "Lagos, Nigeria",
+  ~ Role, ~ Year, ~ Organization, ~ Location, ~ Details,
+  
+"Data Scientist", "2022", "Dangote Industries Limited", "Lagos, Nigeria",
+  c("Orchestrated a data pipeline from a third party system.", "Implemented an extensive ETL process.", "Continuous mining of the transformed data.", "Developed and monitor ML models using tidymodels methodology in R."),
+  
+  
+"Business Transformation Manager", "2019-21", "Longbridge Technologies", "Lagos, Nigeria",
+c("Work in a cross-functional environment with various business groups, and end-users to identify, document,
+and communicate business processes.", "Create a system to evaluate the success of any adjustments made within the organization and present
+findings.", "Communicate strategies and objectives with relevant departments and colleagues."),
+
+"Data Scientist", "2017-18", "eHealth Systems Africa", "Kano, Nigeria",
+c("Developed models to discover the patterns and information in vast amounts of spatial and non-spatial
+data across several programs at eHA to support better programmatic decisions, intervention planning
+and improved information products.",
+"Applied data mining techniques, performed statistical analysis, and build high quality prediction models
+that formed core of eHA’s information products on disease surveillance in particular."),
+
+
+"Data Scientist", "2016-17", "Venture Garden Group", "Lagos, Nigeria",
+  c("Lead discovery processes with Institute stakeholders to identify the business requirements and the
+expected outcome.", "Conducted advanced data analysis and complex designs algorithm.", "Applied advanced statistical and predictive modeling techniques to build, maintain, and improve on
+multiple real-time decision systems.", "Validates analysis using scenario modeling."),
+  
   "Quality Assurance Analyst", "2013-16", "Computer Warehouse Group, Plc", "Lagos, Nigeria",
-  "Data Analyst", "2012-13", "Practical Sampling International", "Lagos, Nigeria"
+c("Encouraged factual approach to decision making by providing the management an accurate analysis of
+people and processes.", "Achieved success in providing standard value-added metrics for business model.",
+"Continual implementation and auditing of ISO 9001:2008.", "Quality process analysis to achieving a system thinking organization.",
+"Quality spot checks of project implementations & Services (Software, Hardware, Communication).",
+"Trained a number of employees in HR related work especially Analytics, HSE and Change Management.",
+"Provided both administrative and analytic support to departments in order to manage critical and people
+sensitive projects.",
+"Collaborated with the VP of Sales in the development of sales forecasts and projections.",
+"Summarize and report performance against sales quotas to all sales personnel in a timely manner.",
+"Proactively prepare and deliver ad hoc customer analysis to sales team members and senior management"),
+  
+  
+  "Data Analyst", "2012-13", "Practical Sampling International", "Lagos, Nigeria",
+c("Supervised the data collection process of many high profile projects.", "Processed and analyzed raw data collected from field work.",
+"Improved the statistical procedure usage and reporting method.")
   
 ) %>% 
-  detailed_entries(Role, Year, Organization, Location)
+  detailed_entries(what = Role, when = Year, with = Organization, where = Location, why = Details)
 ```
 
 # Teaching Experience
 
 ```{r}
 tribble(
-  ~ Role, ~ Year, ~ Organization, ~ Location,
+  ~ Role, ~ Year, ~ Organization, ~ Location, ~ Details,
   "Data Analytics Mentor", "2018-present", "Codementor.io", "Remote",
+  "Supports clients through a live session mentoring on task relating to analytic, predictive modeling and
+statistical programming using R and other related analytical software packages.",
+
   "Faculty Member Data Analytics", "2018-present", "BNet Learning", "Remote",
+c("Designed individualized curricula based on the participants’ career path.",
+  "mentoring of aspiring data analytics professionals"),
+
   "Guest Faculty Business Analytics", "2015-2016", "EduPristine", "Lagos, Nigeria & Beirut, Lebanon",
-  "Guest Faculty IBM SPSS", "2011-2012", "AfriHUB Nigeria Limited", "Umuahia, Nigeria"
+  "Designed individualized curricula based on the participants’ career path.",
+
+
+  "Guest Faculty IBM SPSS", "2011-2012", "AfriHUB Nigeria Limited", "Umuahia, Nigeria",
+  c("Improved the knowledge of both students and lecturers of Michael Okpara University of Agriculture,
+Umudike, Abia State in the usage of statistical software (SPSS) for data analysis.",
+"Designed an electronic test to monitor performance and understanding.",
+"Designed individualized curricula.")
   
 ) %>% 
-  detailed_entries(Role, Year, Organization, Location)
+  detailed_entries(what = Role, when = Year, with = Organization, where = Location, why = Details)
 ```
+
+
+# SkillSets
+
+```{r}
+
+tribble(
+  ~ What, ~ Rating, ~ Category, ~ empty,
+  "R | Python | Julia | SQL | Excel | ODK | SPSS", "", "Data Tool Box", "",
+  "Rstudio | Jupyter | VS Code | Pluto", "", "Development Environments","",
+  "PostgreSQL | Elasticsearch", "", "Databases","",
+  "PowerBI | Looker Studio | Tableau | Kibana", "", "BI Tools","",
+  "Windows | Ubuntu | CentOS", "", "Operating Systems", ""
+) %>% 
+  detailed_entries(What, Rating, Category, empty)
+
+```
+
 
 # Certifications
 
