@@ -37,7 +37,7 @@ library(tibble)
 ```{r}
 tribble(
   ~ Degree, ~ Year, ~ Institution, ~ Where,
-  "Master of Statistics", "2013-15", "University of Ibadan", "Ibadan, Nigeria",
+  "MSc Statistics", "2013-15", "University of Ibadan", "Ibadan, Nigeria",
   "B.Tech Industrial Mathematics", "2005-2010", "Federal University of Technology, Akure", "Akure, Nigeria"
 ) %>% 
   detailed_entries(Degree, Year, Institution, Where)

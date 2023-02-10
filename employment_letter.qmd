@@ -1,0 +1,20 @@
+---
+title: "Employment Letter"
+subtitle: "Senior Data Steward"
+format: pdf
+editor: visual
+---
+
+Dear Olumide Oyalola,
+
+We're delighted to extend this offer of employment for the position of Senior Data Steward with Zarttech. Please review this summary of terms and conditions for your anticipated employment with us.
+
+If you accept this offer, your start date will be 1st March, 2023 or another mutually agreed upon date, and you would report to the Global Analytics Manager.
+
+Please find attached the terms and conditions of your employment, should you accept this offer letter. We would like to have your response by 27th February, 2023. In the meantime, please feel free to contact me or Joshua Wilson via email or phone at joshua\@zarttech.com, if you have any questions.
+
+We are all looking forward to having you on our team.
+
+Best regards,
+
+Lilian Joe
