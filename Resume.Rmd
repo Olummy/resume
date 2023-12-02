@@ -1,14 +1,11 @@
 ---
-name: Olumide
-surname: Oyalola
+name: Data
+surname: Scientist
 position: "Data Professional"
 address: ""
-www: "iamolumide.quarto.pub/"
-phone: +234-803-569-4053
-email: "olumideoyalola@gmail.com"
-twitter: iamolumide
-github: olummy
-linkedin: olumide-oyalola
+twitter: candidate
+github: candidate
+linkedin: candidate
 date: "`r format(Sys.time(), '%B %Y')`"
 output: 
   vitae::awesomecv:
@@ -37,7 +34,6 @@ library(tibble)
 ```{r}
 tribble(
   ~ Degree, ~ Year, ~ Institution, ~ Where,
-  "MBA", "2024-2025", "Quantic School of Business and Technology", "Washington DC, USA",
   "MSc Statistics", "2013-15", "University of Ibadan", "Ibadan, Nigeria",
   "B.Tech Industrial Mathematics", "2005-2010", "Federal University of Technology, Akure", "Akure, Nigeria"
 ) %>% 
@@ -49,11 +45,6 @@ tribble(
 ```{r}
 tribble(
   ~ Role, ~ Year, ~ Organization, ~ Location, ~ Details,
-  
-  "Data Insights & Analytics Expert", "2023", "Coca cola Hellenic (Nigeria Bottling Company)", "Lagos, Nigeria",
-  c("Translated insights into actionable recommendations to support decision making.",
-    "Acted as one of the key contacts within the BU for use case ideas and supports use case implementation teams.",
-    "Applied advanced analytics to redesigned the customer segmentation for the business."),
   
 "Data Scientist", "2022", "Dangote Industries Limited", "Lagos, Nigeria",
   c("Orchestrated a data pipeline from a third party system.", "Implemented an extensive ETL process.", "Continuous mining of the transformed data.", "Developed and monitor ML models using tidymodels methodology in R."),
@@ -133,7 +124,7 @@ Umudike, Abia State in the usage of statistical software (SPSS) for data analysi
 tribble(
   ~ What, ~ Rating, ~ Category, ~ empty,
   "R | Python | Julia | SQL | Excel | ODK | SPSS", "", "Data Tool Box", "",
-  "Rstudio | Jupyter | VS Code | Databricks", "", "Development Environments","",
+  "Rstudio | Jupyter | VS Code | Pluto", "", "Development Environments","",
   "PostgreSQL | Elasticsearch", "", "Databases","",
   "PowerBI | Looker Studio | Tableau | Kibana", "", "BI Tools","",
   "Windows | Ubuntu | CentOS", "", "Operating Systems", ""
